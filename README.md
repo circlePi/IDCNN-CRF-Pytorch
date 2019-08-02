@@ -1,5 +1,5 @@
 # IDCNN-CRF-Pytorch
-膨胀卷积命名实体抽取
+迭代膨胀卷积命名实体抽取
 <br>
 论文 [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://www.aclweb.org/anthology/D17-1283) pytorch实现
 <br>
